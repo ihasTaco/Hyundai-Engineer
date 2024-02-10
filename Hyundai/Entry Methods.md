@@ -1,5 +1,5 @@
 # Hyundai Entry Methods
-## Confirmed Working
+## Confirmed Working Methods
 ### 7-3-1 Method
 With "FM Radio" turned on:
 1. Go to Setup -> General -> SW Info 
@@ -27,7 +27,7 @@ With "FM Radio" turned on, and volume set to 2:
 2. on the left side of the "Update" button, tap 6 times
 3. on the right side of the "Update" button, tap 1 time
 
-## Other Uncomfirmed Code Entry
+## Uncomfirmed Methods
 I have been reading a bunch of different forums, here are some Entry Methods that I have tried but can not get to work so, I am putting them here just in case I am just dumb.
 
 ### Screensaver Method
