@@ -1,8 +1,8 @@
 # Hyundai/Kia Engineer Mode
 
 ## Goals: 
-* I want a centralized space for all the information regarding the Hyundai/Kia Engineer Mode, including links to other resources that may help someone.
-* A wiki that will tell users what each option does would be nice too.
+* A centralized space for all the information regarding the Hyundai/Kia Dealer/Engineer Mode.
+* A wiki that will tell users what each option does in the Dealer/Engineer Mode
 
 I only have access to my 2023 Hyundai Sonata, so that is what I am gonna be focusing on getting the repository set up. 
 If you have any information you would like to share, open an issue and I can add it, or you can make a pull request and I can add it
