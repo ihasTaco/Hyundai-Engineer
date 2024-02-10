@@ -1,5 +1,7 @@
 # Hyundai Entry Methods
 ## Confirmed Working Methods
+`NOTE: Some of these entry methods may not work for your specific vehicle`<br>
+`NOTE: Some of these entry methods don't have any discovered codes yet`
 ### 7-3-1 Method
 With "FM Radio" turned on:
 1. Go to Setup -> General -> SW Info 
