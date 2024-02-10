@@ -6,8 +6,6 @@ With "FM Radio" turned on:
 2. Turn the volume to 7 and then tap the top bar that says, "General Settings"
 3. Turn the volume to 3 and then tap the top bar that says, "General Settings"
 4. Turn the volume to 1 and then tap the top bar that says, "General Settings"
-5. Once you have tapped the General Settings bar all 3 times, you should hear a "beep" and see a keypad
-6. Type in vehicles "Dealer Mode" Code
 
 ### 10-1 Method
 With "FM Radio" turned on, and volume set to 2:
