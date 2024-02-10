@@ -1,4 +1,4 @@
-# How to access Hidden Menu's
+# Hyundai Entry Methods
 ## Dealer Mode
 ### 7-3-1 Method
 From my exploration, the only way I have been able to access Dealer Mode (DM) is by following these steps:
