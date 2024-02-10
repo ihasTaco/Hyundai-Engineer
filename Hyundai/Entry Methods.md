@@ -4,21 +4,21 @@
 `NOTE: Some of these entry methods don't have any discovered codes yet`
 ### 7-3-1 Method
 With "FM Radio" turned on:
-1. Go to Setup -> General -> SW Info 
+1. Go to Setup -> General -> SW Info/Update 
 2. Turn the volume to 7 and then tap the top bar that says, "General Settings"
 3. Turn the volume to 3 and then tap the top bar that says, "General Settings"
 4. Turn the volume to 1 and then tap the top bar that says, "General Settings"
 
 ### 20-1 Method
 With "FM Radio" turned on, and volume set to 2:
-1. Go to Setup -> General -> SW Info
+1. Go to Setup -> General -> SW Info/Update 
 2. on the left side of the "Update" button, tap 20 times
 3. on the right side of the "Update" button, tap 1 time
 this opens a different type of key input 
 
 ### 5-1 Method
 With "FM Radio" turned on, and volume set to 2:
-1. Go to Setup -> General -> SW Info
+1. Go to Setup -> General -> SW Info/Update 
 2. on the left side of the "Update" button, tap 5 times
 3. on the right side of the "Update" button, tap 1 time
 
