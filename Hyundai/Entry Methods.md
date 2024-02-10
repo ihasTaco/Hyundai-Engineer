@@ -9,22 +9,17 @@ With "FM Radio" turned on:
 3. Turn the volume to 3 and then tap the top bar that says, "General Settings"
 4. Turn the volume to 1 and then tap the top bar that says, "General Settings"
 
-### 10-1 Method
+### 20-1 Method
 With "FM Radio" turned on, and volume set to 2:
 1. Go to Setup -> General -> SW Info
-2. on the left side of the "Update" button, tap 10 times
+2. on the left side of the "Update" button, tap 20 times
 3. on the right side of the "Update" button, tap 1 time
+this opens a different type of key input 
 
-### 5-2 Method
+### 5-1 Method
 With "FM Radio" turned on, and volume set to 2:
 1. Go to Setup -> General -> SW Info
 2. on the left side of the "Update" button, tap 5 times
-3. on the right side of the "Update" button, tap 2 time
-
-### 6-1 Method
-With "FM Radio" turned on, and volume set to 2:
-1. Go to Setup -> General -> SW Info
-2. on the left side of the "Update" button, tap 6 times
 3. on the right side of the "Update" button, tap 1 time
 
 ## Uncomfirmed Methods
