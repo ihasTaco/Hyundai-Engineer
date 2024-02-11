@@ -9,7 +9,7 @@ With "FM Radio" turned on:
 3. Turn the volume to 3 and then tap the top bar that says, "General Settings"
 4. Turn the volume to 1 and then tap the top bar that says, "General Settings"
 
-### 20-1 Method
+### 20-1 Method (Dummy Keypad)
 With "FM Radio" turned on, and volume set to 2:
 1. Go to Setup -> General -> SW Info/Update 
 2. on the left side of the "Update" button, tap 20 times
